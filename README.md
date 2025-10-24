@@ -1,13 +1,13 @@
 # point-of-sale
 
 <h2>
-A Point-of-Sale cashier Application to manage inventory, order history, process transaction, prints receipt as PDF, and provide analytical data for a local store front to conduct heavy business practices.</h2>
+A Point-of-Sale cashier Application to manage inventory, order history, process transaction, prints receipt as PDF, and provide analytical data for a local storefront to conduct heavy business practices.</h2>
 
 <h1>Architecture</h1>
 <pre>
 1- Next JS: Frontend
 
-    I- Shadcn-UI
+    I- Daisy-UI (to help with learning TailwindCSS)
 
     II- TailwindCSS
 
