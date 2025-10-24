@@ -5,7 +5,7 @@ A Point-of-Sale cashier Application to manage inventory, order history, process 
 
 <h1>Architecture</h1>
 <pre>
-1- Next JS: Frontend
+1- React w/ Vite: Frontend
 
     I- Daisy-UI (to help with learning TailwindCSS)
 
